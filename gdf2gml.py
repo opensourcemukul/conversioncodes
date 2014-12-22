@@ -30,6 +30,7 @@ try:
         i=i+1
     
     print i
+    i=i+1
     while i<len(arr):
         string_this=arr[i].split(',')
         iden_s=string_this[0]
